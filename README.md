@@ -18,3 +18,4 @@ Phosphor for the icons
 Toastify for the toasts
 
 To run this application you will need to run the API too, you can find it in my repositories.
+https://github.com/WesleyBortoloso/esportsDuoApi
